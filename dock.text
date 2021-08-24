@@ -1,0 +1,30 @@
+-----------------------------------------------------------
+//var (keyword)
+1. var = variable.
+* variable declear korar jonno 5 ta part lage. \
+For example: 1. var 2. variable name (orangePrice) 3. = 4. variable value (55) 5. ; (semicolon).
+var orangePrice = 55;
+
+
+-----------------------------------------------------------
+
+Numeric, String, Boolean
+
+Numeric :- var price = 21;
+String :- var address = "Mymensingh";
+Boolean : var buyNewPhone = false; // or true;
+
+-----------------------------------------------------------
+
+
+Integer - 1,2,3,44,55,66,35,6,78,444 (purnosonkha)
+Float - 11.22, 4.02, 55.32, 22.3 
+
+parseInt : convert;
+var onionPrice = '44.55';
+var eggPrice = '33.55';
+var onionPriceNumber = parseInt(onionPrice); answer- 44
+var eggPriceNumber = parseFloat(eggPrice); answer- 33.55
+
+
+
